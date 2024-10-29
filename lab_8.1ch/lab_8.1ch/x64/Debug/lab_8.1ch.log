@@ -1,0 +1,4 @@
+﻿  lab_8.1ch.cpp
+C:\Users\Admin Computer\source\repos\lab_8.1ch\lab_8.1ch.cpp(14,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Admin Computer\source\repos\lab_8.1ch\lab_8.1ch.cpp(28,22): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  lab_8.1ch.vcxproj -> C:\Users\Admin Computer\source\repos\lab_8.1ch\x64\Debug\lab_8.1ch.exe
